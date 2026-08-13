@@ -51,7 +51,7 @@ The CoderStats link for GitHub Chrome extension displays a link to the CoderStat
 
 Installs: 13 | Stars: 20 | Last update: 2 May 2023
 
-### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) ⭐ 502 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-17 <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) ⭐ 503 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-17 <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
 
@@ -179,7 +179,7 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ### [GitHub vscode-icons](https://github.com/dderevjanik/github-vscode-icons) ⭐ 362 | 🐛 16 | 🌐 TypeScript | 📅 2024-06-26 <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,116 | 🐛 291 | 🌐 TypeScript | 📅 2026-08-12 in the repository browser.
+Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,119 | 🐛 293 | 🌐 TypeScript | 📅 2026-08-13 in the repository browser.
 
 Installs: 2000 | Stars: 309 | Last update: n/a
 
@@ -213,7 +213,7 @@ Hide dotfiles from the GitHub file browser.
 
 Installs: 33 | Stars: 320 | Last update: n/a
 
-### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) ⭐ 3,688 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) ⭐ 3,689 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
@@ -293,7 +293,7 @@ The missing IntelliSense hint for GitHub and GitLab
 
 Installs: 4000 | Stars: 961 | Last update: n/a
 
-### [Octotree](https://github.com/ovity/octotree) ⭐ 23,228 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/ovity/octotree#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+### [Octotree](https://github.com/ovity/octotree) ⭐ 23,229 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/ovity/octotree#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
@@ -323,7 +323,7 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 Installs: 4 | Stars: 97 | Last update: 15 Oct 2020
 
-### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 31,924 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-12 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 31,928 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-12 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
