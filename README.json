@@ -149,7 +149,7 @@
             "last_commit": "2024-10-10T10:15:02Z",
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13688
+            "stars": 13689
           },
           "title": "Git History"
         },
@@ -539,7 +539,7 @@
             "last_commit": "2026-07-20T06:15:49Z",
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 776
+            "stars": 777
           },
           "title": "Material Icons for Github"
         },
@@ -599,7 +599,7 @@
             "last_commit": "2025-06-25T12:34:28Z",
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1982
+            "stars": 1983
           },
           "title": "Notifier for GitHub"
         },
@@ -629,7 +629,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384
+            "stars": 5385
           },
           "title": "OctoLinker"
         },
@@ -674,7 +674,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23232
+            "stars": 23233
           },
           "title": "Octotree"
         },
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-19T11:14:12Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31951
+            "stars": 31961
           },
           "title": "Refined GitHub"
         },
@@ -854,7 +854,7 @@
             "last_commit": "2024-08-13T17:15:34Z",
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 832
+            "stars": 833
           },
           "title": "npmhub"
         },
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:56:29.849Z",
+    "last_updated": "2026-08-20T14:58:23.315Z",
     "original_repository": "stefanbuck/awesome-browser-extensions-for-github",
     "original_repository_id": 29885833,
     "original_repository_sha": "3c5de1ba7b7c2ce3c7b558d439e5edb7e7532c32",
