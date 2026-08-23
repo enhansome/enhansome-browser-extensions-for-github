@@ -149,7 +149,7 @@
             "last_commit": "2024-10-10T10:15:02Z",
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13688
+            "stars": 13689
           },
           "title": "Git History"
         },
@@ -554,7 +554,7 @@
             "last_commit": "2021-08-13T00:03:07Z",
             "owner": "fiatjaf",
             "repo": "module-linker",
-            "stars": 255
+            "stars": 256
           },
           "title": "Module Linker"
         },
@@ -674,7 +674,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23234
+            "stars": 23235
           },
           "title": "Octotree"
         },
@@ -746,10 +746,10 @@
             "archived": false,
             "id": 51769689,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:14:12Z",
+            "last_commit": "2026-08-23T12:30:26Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31969
+            "stars": 31974
           },
           "title": "Refined GitHub"
         },
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:41:59.375Z",
+    "last_updated": "2026-08-23T14:43:43.940Z",
     "original_repository": "stefanbuck/awesome-browser-extensions-for-github",
     "original_repository_id": 29885833,
     "original_repository_sha": "3c5de1ba7b7c2ce3c7b558d439e5edb7e7532c32",
