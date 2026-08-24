@@ -149,7 +149,7 @@
             "last_commit": "2024-10-10T10:15:02Z",
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13689
+            "stars": 13688
           },
           "title": "Git History"
         },
@@ -476,7 +476,7 @@
             "archived": false,
             "id": 18154829,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T13:49:23Z",
+            "last_commit": "2026-08-24T13:44:34Z",
             "owner": "jasonlong",
             "repo": "isometric-contributions",
             "stars": 3689
@@ -494,7 +494,7 @@
             "last_commit": "2026-07-25T08:58:07Z",
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863
+            "stars": 5864
           },
           "title": "Le Git Graph"
         },
@@ -536,10 +536,10 @@
             "archived": false,
             "id": 322169288,
             "language": "TypeScript",
-            "last_commit": "2026-07-20T06:15:49Z",
+            "last_commit": "2026-08-24T07:18:30Z",
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 777
+            "stars": 779
           },
           "title": "Material Icons for Github"
         },
@@ -674,7 +674,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23235
+            "stars": 23234
           },
           "title": "Octotree"
         },
@@ -746,10 +746,10 @@
             "archived": false,
             "id": 51769689,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:30:26Z",
+            "last_commit": "2026-08-24T11:22:52Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31974
+            "stars": 31978
           },
           "title": "Refined GitHub"
         },
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:43:43.940Z",
+    "last_updated": "2026-08-24T14:05:09.656Z",
     "original_repository": "stefanbuck/awesome-browser-extensions-for-github",
     "original_repository_id": 29885833,
     "original_repository_sha": "3c5de1ba7b7c2ce3c7b558d439e5edb7e7532c32",
