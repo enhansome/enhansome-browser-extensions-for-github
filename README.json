@@ -494,7 +494,7 @@
             "last_commit": "2026-07-25T08:58:07Z",
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5864
+            "stars": 5865
           },
           "title": "Le Git Graph"
         },
@@ -539,7 +539,7 @@
             "last_commit": "2026-08-24T07:18:30Z",
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 779
+            "stars": 780
           },
           "title": "Material Icons for Github"
         },
@@ -674,7 +674,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23236
+            "stars": 23238
           },
           "title": "Octotree"
         },
@@ -746,10 +746,10 @@
             "archived": false,
             "id": 51769689,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T11:32:50Z",
+            "last_commit": "2026-08-27T08:02:58Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31989
+            "stars": 31995
           },
           "title": "Refined GitHub"
         },
@@ -878,9 +878,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:23.282Z",
-    "original_repository": "stefanbuck/awesome-browser-extensions-for-github",
-    "original_repository_id": 29885833,
+    "last_updated": "2026-08-27T11:27:55.916Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 29885833,
+      "language": "JavaScript",
+      "last_commit": "2024-08-18T20:11:31Z",
+      "owner": "stefanbuck",
+      "repo": "awesome-browser-extensions-for-github",
+      "stars": 3291
+    },
     "original_repository_sha": "3c5de1ba7b7c2ce3c7b558d439e5edb7e7532c32",
     "enhanced_repository": "enhansome/enhansome-browser-extensions-for-github",
     "enhanced_repository_description": null,
