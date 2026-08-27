@@ -479,7 +479,7 @@
             "last_commit": "2026-08-24T13:44:34Z",
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3690
+            "stars": 3691
           },
           "title": "Isometric Contributions"
         },
@@ -494,7 +494,7 @@
             "last_commit": "2026-07-25T08:58:07Z",
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5865
+            "stars": 5864
           },
           "title": "Le Git Graph"
         },
@@ -674,7 +674,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23238
+            "stars": 23239
           },
           "title": "Octotree"
         },
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-27T08:02:58Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31995
+            "stars": 31999
           },
           "title": "Refined GitHub"
         },
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:55.916Z",
+    "last_updated": "2026-08-27T23:48:58.952Z",
     "original_repository_info": {
       "archived": false,
       "id": 29885833,
@@ -886,7 +886,7 @@
       "last_commit": "2024-08-18T20:11:31Z",
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3291
+      "stars": 3292
     },
     "original_repository_sha": "3c5de1ba7b7c2ce3c7b558d439e5edb7e7532c32",
     "enhanced_repository": "enhansome/enhansome-browser-extensions-for-github",
