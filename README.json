@@ -16,7 +16,8 @@
             "repo": "advanced-github-notifier",
             "stars": 83
           },
-          "title": "Advanced GitHub Notifier"
+          "title": "Advanced GitHub Notifier",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "autoviewed",
             "stars": 9
           },
-          "title": "Autoviewed"
+          "title": "Autoviewed",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "codewing",
             "stars": 78
           },
-          "title": "CodeWing"
+          "title": "CodeWing",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "chrome",
             "stars": 18
           },
-          "title": "Codeflower"
+          "title": "Codeflower",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "cxt_coderstats",
             "stars": 21
           },
-          "title": "CoderStats link for GitHub"
+          "title": "CoderStats link for GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "contributors-on-github",
             "stars": 502
           },
-          "title": "Contributors on GitHub"
+          "title": "Contributors on GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -104,9 +110,10 @@
             "last_commit": "2024-06-03T10:02:54Z",
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2377
+            "stars": 2376
           },
-          "title": "Enhanced GitHub"
+          "title": "Enhanced GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "gifs-for-github",
             "stars": 235
           },
-          "title": "GIFs for GitHub"
+          "title": "GIFs for GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "gifhub-pull-request",
             "stars": 22
           },
-          "title": "Gifhub Pull Request"
+          "title": "Gifhub Pull Request",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -149,9 +158,10 @@
             "last_commit": "2024-10-10T10:15:02Z",
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13690
+            "stars": 13691
           },
-          "title": "Git History"
+          "title": "Git History",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -166,7 +176,8 @@
             "repo": "github-csv-diff",
             "stars": 5
           },
-          "title": "GitHub CSV Diff"
+          "title": "GitHub CSV Diff",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -181,7 +192,8 @@
             "repo": "github-code-folding",
             "stars": 290
           },
-          "title": "GitHub Code Folding"
+          "title": "GitHub Code Folding",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -196,7 +208,8 @@
             "repo": "github-custom-tab-size",
             "stars": 69
           },
-          "title": "GitHub Custom Tab Size"
+          "title": "GitHub Custom Tab Size",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -211,7 +224,8 @@
             "repo": "github-diff-navigator-extension",
             "stars": 20
           },
-          "title": "GitHub Diff Navigator"
+          "title": "GitHub Diff Navigator",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -226,7 +240,8 @@
             "repo": "github-file-icons",
             "stars": 1640
           },
-          "title": "GitHub File Icon"
+          "title": "GitHub File Icon",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -241,7 +256,8 @@
             "repo": "github-highlight-selected",
             "stars": 144
           },
-          "title": "GitHub Highlight Selected"
+          "title": "GitHub Highlight Selected",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -254,9 +270,10 @@
             "last_commit": "2026-08-15T03:54:48Z",
             "owner": "Justineo",
             "repo": "github-hovercard",
-            "stars": 1893
+            "stars": 1892
           },
-          "title": "GitHub Hovercard"
+          "title": "GitHub Hovercard",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -271,7 +288,8 @@
             "repo": "github-issue-link-status",
             "stars": 311
           },
-          "title": "GitHub Issue Link Status"
+          "title": "GitHub Issue Link Status",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -286,7 +304,8 @@
             "repo": "github-npm-stats",
             "stars": 61
           },
-          "title": "GitHub Npm Stats"
+          "title": "GitHub Npm Stats",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -301,7 +320,8 @@
             "repo": "git-rec-ext",
             "stars": 69
           },
-          "title": "GitHub Recommender"
+          "title": "GitHub Recommender",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -316,7 +336,8 @@
             "repo": "GitHub-Red-Issues",
             "stars": 44
           },
-          "title": "GitHub Red Issues"
+          "title": "GitHub Red Issues",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -331,7 +352,8 @@
             "repo": "github-repo-size",
             "stars": 1296
           },
-          "title": "GitHub Repo Size"
+          "title": "GitHub Repo Size",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -346,7 +368,8 @@
             "repo": "github-story-points",
             "stars": 59
           },
-          "title": "GitHub Story Points"
+          "title": "GitHub Story Points",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -361,7 +384,8 @@
             "repo": "github-user-languages",
             "stars": 50
           },
-          "title": "GitHub User Languages"
+          "title": "GitHub User Languages",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -376,7 +400,8 @@
             "repo": "github-writer",
             "stars": 397
           },
-          "title": "GitHub Writer"
+          "title": "GitHub Writer",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -391,7 +416,8 @@
             "repo": "github-to-linear",
             "stars": 31
           },
-          "title": "GitHub to Linear"
+          "title": "GitHub to Linear",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -406,7 +432,8 @@
             "repo": "github-vscode-icons",
             "stars": 360
           },
-          "title": "GitHub vscode-icons"
+          "title": "GitHub vscode-icons",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -421,7 +448,8 @@
             "repo": "chrome-extension",
             "stars": 53
           },
-          "title": "GitZip for github"
+          "title": "GitZip for github",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -436,7 +464,8 @@
             "repo": "GithubOriginalStreak",
             "stars": 237
           },
-          "title": "GithubOriginalStreak"
+          "title": "GithubOriginalStreak",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -449,9 +478,10 @@
             "last_commit": "2023-01-06T01:39:27Z",
             "owner": "huchenme",
             "repo": "hacker-tab-extension",
-            "stars": 362
+            "stars": 361
           },
-          "title": "Hacker Tab"
+          "title": "Hacker Tab",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -466,7 +496,8 @@
             "repo": "hide-files-on-github",
             "stars": 320
           },
-          "title": "Hide files on GitHub"
+          "title": "Hide files on GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -479,9 +510,10 @@
             "last_commit": "2026-08-24T13:44:34Z",
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3691
+            "stars": 3690
           },
-          "title": "Isometric Contributions"
+          "title": "Isometric Contributions",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -496,7 +528,8 @@
             "repo": "le-git-graph",
             "stars": 5864
           },
-          "title": "Le Git Graph"
+          "title": "Le Git Graph",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -511,7 +544,8 @@
             "repo": "like-on-github",
             "stars": 241
           },
-          "title": "Like On GitHub"
+          "title": "Like On GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -526,7 +560,8 @@
             "repo": "lovely-forks",
             "stars": 670
           },
-          "title": "Lovely forks"
+          "title": "Lovely forks",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -541,7 +576,8 @@
             "repo": "material-icons-browser-extension",
             "stars": 780
           },
-          "title": "Material Icons for Github"
+          "title": "Material Icons for Github",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -556,7 +592,8 @@
             "repo": "module-linker",
             "stars": 256
           },
-          "title": "Module Linker"
+          "title": "Module Linker",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -571,7 +608,8 @@
             "repo": "github-extension-my-repo-news",
             "stars": 17
           },
-          "title": "My Git Repo News"
+          "title": "My Git Repo News",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -586,7 +624,8 @@
             "repo": "notifications-preview-github",
             "stars": 150
           },
-          "title": "Notifications Preview for GitHub"
+          "title": "Notifications Preview for GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -601,7 +640,8 @@
             "repo": "notifier-for-github",
             "stars": 1984
           },
-          "title": "Notifier for GitHub"
+          "title": "Notifier for GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -616,7 +656,8 @@
             "repo": "octolenses",
             "stars": 162
           },
-          "title": "OctoLenses"
+          "title": "OctoLenses",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -629,9 +670,10 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5385
+            "stars": 5384
           },
-          "title": "OctoLinker"
+          "title": "OctoLinker",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -646,7 +688,8 @@
             "repo": "octopermalinker",
             "stars": 30
           },
-          "title": "OctoPermalinker"
+          "title": "OctoPermalinker",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -661,7 +704,8 @@
             "repo": "octohint",
             "stars": 968
           },
-          "title": "Octohint"
+          "title": "Octohint",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -674,9 +718,10 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23239
+            "stars": 23240
           },
-          "title": "Octotree"
+          "title": "Octotree",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -691,7 +736,8 @@
             "repo": "oldschool-github-extension",
             "stars": 238
           },
-          "title": "Old School GitHub"
+          "title": "Old School GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -706,7 +752,8 @@
             "repo": "open-github-links-in-ide",
             "stars": 78
           },
-          "title": "Open GitHub file links in IDE"
+          "title": "Open GitHub file links in IDE",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -721,7 +768,8 @@
             "repo": "prmonitor",
             "stars": 125
           },
-          "title": "PR Monitor"
+          "title": "PR Monitor",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -736,7 +784,8 @@
             "repo": "potential-changes-for-github",
             "stars": 96
           },
-          "title": "Potential changes for GitHub"
+          "title": "Potential changes for GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -749,9 +798,10 @@
             "last_commit": "2026-08-27T08:02:58Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31999
+            "stars": 32002
           },
-          "title": "Refined GitHub"
+          "title": "Refined GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -766,7 +816,8 @@
             "repo": "render-whitespace-on-github",
             "stars": 79
           },
-          "title": "Render Whitespace on GitHub"
+          "title": "Render Whitespace on GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -781,7 +832,8 @@
             "repo": "tab-size-on-github",
             "stars": 280
           },
-          "title": "Tab Size on GitHub"
+          "title": "Tab Size on GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -796,7 +848,8 @@
             "repo": "whats-new-github",
             "stars": 37
           },
-          "title": "What's New on GitHub"
+          "title": "What's New on GitHub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -811,7 +864,8 @@
             "repo": "Gitako",
             "stars": 2598
           },
-          "title": "gitako - github file tree"
+          "title": "gitako - github file tree",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -826,7 +880,8 @@
             "repo": "github.expandinizr",
             "stars": 132
           },
-          "title": "github.expandinizr"
+          "title": "github.expandinizr",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -841,7 +896,8 @@
             "repo": "browser-extension",
             "stars": 185
           },
-          "title": "gitpod - dev environments in a browser tab"
+          "title": "gitpod - dev environments in a browser tab",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -856,7 +912,8 @@
             "repo": "npmhub",
             "stars": 833
           },
-          "title": "npmhub"
+          "title": "npmhub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         },
         {
           "children": [],
@@ -871,14 +928,15 @@
             "repo": "xhub",
             "stars": 106
           },
-          "title": "xhub"
+          "title": "xhub",
+          "first_seen": "2026-08-28T23:34:29.864Z"
         }
       ],
       "title": "List of browser extensions for GitHub"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:48:58.952Z",
+    "last_updated": "2026-08-28T23:34:29.864Z",
     "original_repository_info": {
       "archived": false,
       "id": 29885833,
@@ -886,7 +944,7 @@
       "last_commit": "2024-08-18T20:11:31Z",
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3292
+      "stars": 3293
     },
     "original_repository_sha": "3c5de1ba7b7c2ce3c7b558d439e5edb7e7532c32",
     "enhanced_repository": "enhansome/enhansome-browser-extensions-for-github",
