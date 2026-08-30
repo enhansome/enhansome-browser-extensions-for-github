@@ -14,8 +14,8 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-26T15:52:58Z",
-            "open_issues": 23,
+            "last_commit": "2026-08-30T01:51:19Z",
+            "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
             "stars": 83,
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863,
+            "stars": 5864,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "addon",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23241,
+            "stars": 23242,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1212,7 +1212,7 @@
             "open_issues": 6,
             "owner": "daattali",
             "repo": "oldschool-github-extension",
-            "stars": 238,
+            "stars": 237,
             "topics": [
               "chrome-extension",
               "chrome-extensions",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:18:18Z",
-            "open_issues": 75,
+            "last_commit": "2026-08-30T09:49:49Z",
+            "open_issues": 77,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32007,
+            "stars": 32013,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 16,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:44:52.662Z",
+    "last_updated": "2026-08-30T18:05:23.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
