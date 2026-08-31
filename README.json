@@ -209,7 +209,7 @@
             "open_issues": 5,
             "owner": "N1ck",
             "repo": "gifs-for-github",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "chrome-extension",
               "gifs",
@@ -814,11 +814,11 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T13:44:34Z",
+            "last_commit": "2026-08-31T15:05:34Z",
             "open_issues": 0,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3690,
+            "stars": 3691,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5864,
+            "stars": 5863,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T09:49:49Z",
-            "open_issues": 77,
+            "last_commit": "2026-08-31T17:57:15Z",
+            "open_issues": 70,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32013,
+            "stars": 32017,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,7 +1424,7 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T14:12:23Z",
+            "last_commit": "2026-08-31T13:13:22Z",
             "open_issues": 16,
             "owner": "EnixCoda",
             "repo": "Gitako",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:05:23.626Z",
+    "last_updated": "2026-08-31T20:10:49.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
