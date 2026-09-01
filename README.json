@@ -14,7 +14,7 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-30T01:51:19Z",
+            "last_commit": "2026-09-01T13:01:07Z",
             "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2376,
+            "stars": 2377,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13692,
+            "stars": 13690,
             "topics": [
               "animation",
               "blame",
@@ -383,7 +383,7 @@
             "open_issues": 27,
             "owner": "homerchen19",
             "repo": "github-file-icons",
-            "stars": 1640,
+            "stars": 1642,
             "topics": []
           },
           "title": "GitHub File Icon",
@@ -415,7 +415,7 @@
           "description": "Neat hovercards for GitHub.\nInstalls: 18634 | Stars: 1822 | Last update: n/a",
           "node_type": "item",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Neat hovercards for GitHub.",
             "homepage": "https://justineo.github.io/github-hovercard/",
             "id": 40540923,
@@ -425,7 +425,7 @@
             "open_issues": 44,
             "owner": "Justineo",
             "repo": "github-hovercard",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "addon",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23242,
+            "stars": 23240,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T17:57:15Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-01T15:49:06Z",
+            "open_issues": 68,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32017,
+            "stars": 32019,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1476,7 +1476,7 @@
             "open_issues": 15,
             "owner": "gitpod-io",
             "repo": "browser-extension",
-            "stars": 185,
+            "stars": 184,
             "topics": []
           },
           "title": "gitpod - dev environments in a browser tab",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:10:49.816Z",
+    "last_updated": "2026-09-01T17:51:34.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3293,
+      "stars": 3294,
       "topics": [
         "awesome",
         "awesome-list",
