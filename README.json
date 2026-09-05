@@ -425,7 +425,7 @@
             "open_issues": 44,
             "owner": "Justineo",
             "repo": "github-hovercard",
-            "stars": 1892,
+            "stars": 1891,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -689,7 +689,7 @@
             "open_issues": 16,
             "owner": "dderevjanik",
             "repo": "github-vscode-icons",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -874,7 +874,7 @@
             "open_issues": 11,
             "owner": "Idnan",
             "repo": "like-on-github",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "chrome-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23241,
+            "stars": 23244,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T09:48:20Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-04T19:44:31Z",
+            "open_issues": 84,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32054,
+            "stars": 32066,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1374,7 +1374,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "tab-size-on-github",
-            "stars": 280,
+            "stars": 279,
             "topics": []
           },
           "title": "Tab Size on GitHub",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:38:56.689Z",
+    "last_updated": "2026-09-05T16:51:41.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3295,
+      "stars": 3296,
       "topics": [
         "awesome",
         "awesome-list",
