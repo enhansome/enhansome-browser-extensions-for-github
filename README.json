@@ -14,8 +14,8 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T00:15:25Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-07T23:32:33Z",
+            "open_issues": 26,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
             "stars": 83,
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13688,
+            "stars": 13687,
             "topics": [
               "animation",
               "blame",
@@ -310,7 +310,7 @@
             "open_issues": 9,
             "owner": "noam3127",
             "repo": "github-code-folding",
-            "stars": 290,
+            "stars": 289,
             "topics": []
           },
           "title": "GitHub Code Folding",
@@ -814,8 +814,8 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T11:22:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-07T23:32:08Z",
+            "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
             "stars": 3692,
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23246,
+            "stars": 23244,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-06T04:48:49Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32092,
+            "stars": 32096,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:45:51.395Z",
+    "last_updated": "2026-09-08T17:57:13.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",

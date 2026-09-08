@@ -21,7 +21,7 @@ Want to know more about this process? Check out the [Codeless Contributions with
 
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
-### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) ⭐ 83 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-04 <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) ⭐ 83 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-07 <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
@@ -75,7 +75,7 @@ Find the best GIFs for your awesome pull requests.
 
 Installs: 136 | Stars: 22 | Last update: n/a
 
-### [Git History](https://github.com/pomber/git-history) ⭐ 13,688 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10 <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Git History](https://github.com/pomber/git-history) ⭐ 13,687 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10 <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Quickly browse the history of a file from any git repository.
 
@@ -87,7 +87,7 @@ GitHub provides a page that only shows diffs with a .diff at the end of the URL 
 
 Installs: 34 | Stars: 4 | Last update: n/a
 
-### [GitHub Code Folding](https://github.com/noam3127/github-code-folding) ⭐ 290 | 🐛 9 | 🌐 JavaScript | 📅 2022-07-14 <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Code Folding](https://github.com/noam3127/github-code-folding) ⭐ 289 | 🐛 9 | 🌐 JavaScript | 📅 2022-07-14 <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
@@ -213,7 +213,7 @@ Hide dotfiles from the GitHub file browser.
 
 Installs: 33 | Stars: 320 | Last update: n/a
 
-### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) ⭐ 3,692 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-07 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) ⭐ 3,692 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-07 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
@@ -293,7 +293,7 @@ The missing IntelliSense hint for GitHub and GitLab
 
 Installs: 4000 | Stars: 961 | Last update: n/a
 
-### [Octotree](https://github.com/ovity/octotree) ⭐ 23,246 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" />](https://github.com/ovity/octotree#install-on-safari) ⭐ 23,246 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+### [Octotree](https://github.com/ovity/octotree) ⭐ 23,244 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" />](https://github.com/ovity/octotree#install-on-safari) ⭐ 23,244 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
@@ -323,7 +323,7 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 Installs: 4 | Stars: 97 | Last update: 15 Oct 2020
 
-### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,092 | 🐛 85 | 🌐 TypeScript | 📅 2026-09-06 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,096 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-06 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
@@ -415,4 +415,4 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
