@@ -14,8 +14,8 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-07T23:32:33Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-09T15:57:50Z",
+            "open_issues": 23,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
             "stars": 83,
@@ -814,7 +814,7 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:32:08Z",
+            "last_commit": "2026-09-09T11:43:44Z",
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5386,
+            "stars": 5385,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23244,
+            "stars": 23242,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T04:48:49Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-09T10:49:47Z",
+            "open_issues": 87,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32096,
+            "stars": 32099,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 20,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2599,
+            "stars": 2598,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1472,7 +1472,7 @@
             "id": 219017940,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-11T19:23:44Z",
+            "last_commit": "2026-09-09T05:12:18Z",
             "open_issues": 15,
             "owner": "gitpod-io",
             "repo": "browser-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:57:13.752Z",
+    "last_updated": "2026-09-09T17:52:04.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3298,
+      "stars": 3299,
       "topics": [
         "awesome",
         "awesome-list",
