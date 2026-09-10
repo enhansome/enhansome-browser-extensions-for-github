@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2382,
+            "stars": 2383,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -930,7 +930,7 @@
             "open_issues": 11,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 781,
+            "stars": 783,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5385,
+            "stars": 5384,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23242,
+            "stars": 23246,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:49:47Z",
-            "open_issues": 87,
+            "last_commit": "2026-09-10T08:43:07Z",
+            "open_issues": 89,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32099,
+            "stars": 32110,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,8 +1424,8 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T17:37:52Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-10T05:00:04Z",
+            "open_issues": 21,
             "owner": "EnixCoda",
             "repo": "Gitako",
             "stars": 2598,
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:52:04.887Z",
+    "last_updated": "2026-09-10T17:43:59.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3299,
+      "stars": 3300,
       "topics": [
         "awesome",
         "awesome-list",
