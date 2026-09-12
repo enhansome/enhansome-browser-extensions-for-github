@@ -14,8 +14,8 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-09T15:57:50Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-12T17:07:07Z",
+            "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
             "stars": 83,
@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2383,
+            "stars": 2384,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23246,
+            "stars": 23245,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T08:49:11Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-12T09:31:44Z",
+            "open_issues": 78,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32126,
+            "stars": 32139,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1472,8 +1472,8 @@
             "id": 219017940,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T05:12:18Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-12T03:35:51Z",
+            "open_issues": 16,
             "owner": "gitpod-io",
             "repo": "browser-extension",
             "stars": 184,
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:46:49.135Z",
+    "last_updated": "2026-09-12T17:15:18.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3300,
+      "stars": 3301,
       "topics": [
         "awesome",
         "awesome-list",
