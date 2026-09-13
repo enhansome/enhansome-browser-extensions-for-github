@@ -151,7 +151,7 @@
             "open_issues": 8,
             "owner": "hzoo",
             "repo": "contributors-on-github",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13687,
+            "stars": 13686,
             "topics": [
               "animation",
               "blame",
@@ -425,7 +425,7 @@
             "open_issues": 44,
             "owner": "Justineo",
             "repo": "github-hovercard",
-            "stars": 1891,
+            "stars": 1890,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -444,14 +444,14 @@
           "description": "Colorize issue and PR links to see their status (open, closed, merged).\nInstalls: 92 | Stars: 299 | Last update: 30 Jun 2024",
           "node_type": "item",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Colorize issue and PR links to see their status (open, closed, merged)",
             "homepage": null,
             "id": 114767840,
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-03-18T03:05:11Z",
-            "open_issues": 4,
+            "open_issues": 1,
             "owner": "fregante",
             "repo": "github-issue-link-status",
             "stars": 311,
@@ -499,7 +499,7 @@
             "open_issues": 3,
             "owner": "IndexStorm",
             "repo": "git-rec-ext",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "javascript"
             ]
@@ -762,7 +762,7 @@
             "open_issues": 26,
             "owner": "huchenme",
             "repo": "hacker-tab-extension",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "chrome-extension",
               "chrome-extensions",
@@ -818,7 +818,7 @@
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3692,
+            "stars": 3693,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5862,
+            "stars": 5863,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23245,
+            "stars": 23246,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1319,7 +1319,7 @@
             "open_issues": 78,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32139,
+            "stars": 32152,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:15:18.292Z",
+    "last_updated": "2026-09-13T17:26:40.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3301,
+      "stars": 3300,
       "topics": [
         "awesome",
         "awesome-list",
