@@ -21,7 +21,7 @@ Want to know more about this process? Check out the [Codeless Contributions with
 
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
-### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) ⭐ 82 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-12 <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) ⭐ 82 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-14 <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
@@ -179,7 +179,7 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ### [GitHub vscode-icons](https://github.com/dderevjanik/github-vscode-icons) ⭐ 361 | 🐛 16 | 🌐 TypeScript | 📅 2024-06-26 <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,147 | 🐛 294 | 🌐 TypeScript | 📅 2026-09-13 in the repository browser.
+Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,148 | 🐛 294 | 🌐 TypeScript | 📅 2026-09-13 in the repository browser.
 
 Installs: 2000 | Stars: 309 | Last update: n/a
 
@@ -213,7 +213,7 @@ Hide dotfiles from the GitHub file browser.
 
 Installs: 33 | Stars: 320 | Last update: n/a
 
-### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) ⭐ 3,692 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) ⭐ 3,692 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
@@ -323,7 +323,7 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 Installs: 4 | Stars: 97 | Last update: 15 Oct 2020
 
-### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,158 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-14 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,167 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-15 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
@@ -415,4 +415,4 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
