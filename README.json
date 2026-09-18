@@ -522,7 +522,7 @@
             "open_issues": 0,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "browser-extension",
               "chrome",
@@ -818,7 +818,7 @@
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3693,
+            "stars": 3695,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5865,
+            "stars": 5864,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23248,
+            "stars": 23250,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T09:00:16Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-18T10:01:37Z",
+            "open_issues": 81,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32177,
+            "stars": 32185,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 21,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1472,8 +1472,8 @@
             "id": 219017940,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:33:19Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-18T07:16:38Z",
+            "open_issues": 8,
             "owner": "gitpod-io",
             "repo": "browser-extension",
             "stars": 184,
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:19:38.416Z",
+    "last_updated": "2026-09-18T17:43:27.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3301,
+      "stars": 3302,
       "topics": [
         "awesome",
         "awesome-list",
