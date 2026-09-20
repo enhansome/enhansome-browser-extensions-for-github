@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5865,
+            "stars": 5868,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "addon",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23249,
+            "stars": 23248,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T07:21:26Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-20T09:27:46Z",
+            "open_issues": 83,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32183,
+            "stars": 32187,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:18:57.361Z",
+    "last_updated": "2026-09-20T17:30:47.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 26,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3302,
+      "stars": 3303,
       "topics": [
         "awesome",
         "awesome-list",
