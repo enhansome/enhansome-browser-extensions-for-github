@@ -689,7 +689,7 @@
             "open_issues": 16,
             "owner": "dderevjanik",
             "repo": "github-vscode-icons",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -926,11 +926,11 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T07:18:30Z",
+            "last_commit": "2026-09-24T08:00:30Z",
             "open_issues": 11,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 787,
+            "stars": 786,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5385,
+            "stars": 5386,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23256,
+            "stars": 23257,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T08:51:57Z",
-            "open_issues": 87,
+            "last_commit": "2026-09-24T10:51:16Z",
+            "open_issues": 94,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32204,
+            "stars": 32207,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 21,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:26:05.599Z",
+    "last_updated": "2026-09-24T18:27:23.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
