@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2385,
+            "stars": 2386,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -818,7 +818,7 @@
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3693,
+            "stars": 3694,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5866,
+            "stars": 5865,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -926,8 +926,8 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:00:30Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-25T07:50:47Z",
+            "open_issues": 12,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
             "stars": 786,
@@ -1180,7 +1180,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23257,
+            "stars": 23258,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1319,7 +1319,7 @@
             "open_issues": 94,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32207,
+            "stars": 32215,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 21,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2600,
+            "stars": 2601,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:27:23.070Z",
+    "last_updated": "2026-09-25T18:42:41.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
