@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -926,8 +926,8 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T07:50:47Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-25T18:52:03Z",
+            "open_issues": 11,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
             "stars": 786,
@@ -1050,7 +1050,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1985,
+            "stars": 1984,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1177,10 +1177,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
-            "open_issues": 33,
+            "open_issues": 26,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23258,
+            "stars": 23259,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T10:51:16Z",
-            "open_issues": 94,
+            "last_commit": "2026-09-26T14:19:16Z",
+            "open_issues": 83,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32215,
+            "stars": 32222,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:42:41.652Z",
+    "last_updated": "2026-09-26T17:47:08.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
