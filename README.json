@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13684,
+            "stars": 13685,
             "topics": [
               "animation",
               "blame",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5386,
+            "stars": 5387,
             "topics": [
               "browser-extension",
               "github",
@@ -1177,7 +1177,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
-            "open_issues": 26,
+            "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
             "stars": 23259,
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T14:19:16Z",
-            "open_issues": 83,
+            "last_commit": "2026-09-27T15:09:31Z",
+            "open_issues": 87,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32222,
+            "stars": 32227,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:47:08.264Z",
+    "last_updated": "2026-09-27T18:29:27.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1546,10 +1546,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2024-08-18T20:11:31Z",
-      "open_issues": 28,
+      "open_issues": 29,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3301,
+      "stars": 3302,
       "topics": [
         "awesome",
         "awesome-list",
