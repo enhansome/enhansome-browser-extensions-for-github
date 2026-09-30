@@ -14,8 +14,8 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-28T23:32:37Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-30T19:22:53Z",
+            "open_issues": 25,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
             "stars": 82,
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5865,
+            "stars": 5864,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -926,7 +926,7 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T09:49:56Z",
+            "last_commit": "2026-09-30T07:03:02Z",
             "open_issues": 11,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23263,
+            "stars": 23261,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:18:20Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-30T09:19:00Z",
+            "open_issues": 75,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32227,
+            "stars": 32234,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:28:01.092Z",
+    "last_updated": "2026-09-30T19:27:26.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
