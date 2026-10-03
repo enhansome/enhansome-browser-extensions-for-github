@@ -522,7 +522,7 @@
             "open_issues": 1,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
-            "stars": 45,
+            "stars": 44,
             "topics": [
               "browser-extension",
               "chrome",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5865,
+            "stars": 5863,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -926,7 +926,7 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:10:37Z",
+            "last_commit": "2026-10-02T19:59:20Z",
             "open_issues": 10,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
@@ -1319,7 +1319,7 @@
             "open_issues": 77,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32253,
+            "stars": 32254,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:23:39.887Z",
+    "last_updated": "2026-10-03T04:37:23.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 29,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3305,
+      "stars": 3306,
       "topics": [
         "awesome",
         "awesome-list",

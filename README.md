@@ -4,7 +4,7 @@ All numbers are updated daily and include the overall  usage of an extension acr
 
 ## Codeless contribution
 
-Submitting a new extension is easy as opening an Issue. In fact, this is all you have to do. [Create a new issue](https://github.com/stefanbuck/awesome-browser-extensions-for-github/issues/new?assignees=\&labels=submit\&template=submit-extension.yml\&title=Submit+new+extension) ⭐ 3,305 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-18, that's it! I'll take it from there. If you need to update an existing listing, please follow the formal pull request process.
+Submitting a new extension is easy as opening an Issue. In fact, this is all you have to do. [Create a new issue](https://github.com/stefanbuck/awesome-browser-extensions-for-github/issues/new?assignees=\&labels=submit\&template=submit-extension.yml\&title=Submit+new+extension), that's it! I'll take it from there. If you need to update an existing listing, please follow the formal pull request process.
 
 Want to know more about this process? Check out the [Codeless Contributions with GitHub Issue Forms](https://stefanbuck.com/blog/codeless-contributions-with-github-issue-forms) post on my blog.
 
@@ -141,7 +141,7 @@ Lists repositories that are similar to the one being viewed
 
 Installs: 29 | Stars: 49 | Last update: 10 Aug 2022
 
-### [GitHub Red Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) ⭐ 45 | 🐛 1 | 🌐 CSS | 📅 2026-09-19 <a href="https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-red-issues"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Red Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) ⭐ 44 | 🐛 1 | 🌐 CSS | 📅 2026-09-19 <a href="https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-red-issues"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Revert closed GitHub issues from purple back to red
 
@@ -179,7 +179,7 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ### [GitHub vscode-icons](https://github.com/dderevjanik/github-vscode-icons) ⭐ 363 | 🐛 16 | 🌐 TypeScript | 📅 2024-06-26 <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,164 | 🐛 244 | 🌐 TypeScript | 📅 2026-10-02 in the repository browser.
+Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,164 | 🐛 245 | 🌐 TypeScript | 📅 2026-10-02 in the repository browser.
 
 Installs: 2000 | Stars: 309 | Last update: n/a
 
@@ -219,7 +219,7 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 
 Installs: 10000 | Stars: 3486 | Last update: n/a
 
-### [Le Git Graph](https://github.com/NirmalScaria/le-git-graph) ⭐ 5,865 | 🐛 29 | 🌐 JavaScript | 📅 2026-07-25 <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Le Git Graph](https://github.com/NirmalScaria/le-git-graph) ⭐ 5,863 | 🐛 29 | 🌐 JavaScript | 📅 2026-07-25 <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension to add git graph to GitHub website.
 
@@ -323,7 +323,7 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 Installs: 4 | Stars: 97 | Last update: 15 Oct 2020
 
-### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,253 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-01 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,254 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-01 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
@@ -415,4 +415,4 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
