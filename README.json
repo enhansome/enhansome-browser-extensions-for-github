@@ -926,7 +926,7 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:59:20Z",
+            "last_commit": "2026-10-03T12:13:29Z",
             "open_issues": 10,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
@@ -954,7 +954,7 @@
             "open_issues": 16,
             "owner": "fiatjaf",
             "repo": "module-linker",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "chrome-extension",
               "dependencies",
@@ -1180,7 +1180,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23270,
+            "stars": 23272,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T09:05:30Z",
+            "last_commit": "2026-10-03T08:23:49Z",
             "open_issues": 77,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32254,
+            "stars": 32257,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:23.628Z",
+    "last_updated": "2026-10-03T18:00:42.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
