@@ -179,7 +179,7 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ### [GitHub vscode-icons](https://github.com/dderevjanik/github-vscode-icons) ⭐ 363 | 🐛 16 | 🌐 TypeScript | 📅 2024-06-26 <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,164 | 🐛 239 | 🌐 TypeScript | 📅 2026-10-03 in the repository browser.
+Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) ⭐ 5,164 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-04 in the repository browser.
 
 Installs: 2000 | Stars: 309 | Last update: n/a
 
@@ -237,7 +237,7 @@ See forks with the most stars under the names of repositories.
 
 Installs: 300 | Stars: 596 | Last update: 30 Mar 2024
 
-### [Material Icons for Github](https://github.com/Claudiohbsantos/github-material-icons-extension) ⭐ 786 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-03 <a href="https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/material-icons-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+### [Material Icons for Github](https://github.com/Claudiohbsantos/github-material-icons-extension) ⭐ 787 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-03 <a href="https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/material-icons-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Show Material icons for files/folders in repository file viewer. Display the same icons from vscode-material-icon-theme VSCode extension.
 
@@ -293,7 +293,7 @@ The missing IntelliSense hint for GitHub and GitLab
 
 Installs: 4000 | Stars: 961 | Last update: n/a
 
-### [Octotree](https://github.com/ovity/octotree) ⭐ 23,272 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" />](https://github.com/ovity/octotree#install-on-safari) ⭐ 23,272 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+### [Octotree](https://github.com/ovity/octotree) ⭐ 23,275 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" />](https://github.com/ovity/octotree#install-on-safari) ⭐ 23,275 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
@@ -323,7 +323,7 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 Installs: 4 | Stars: 97 | Last update: 15 Oct 2020
 
-### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,257 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-03 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub](https://github.com/refined-github/refined-github) ⭐ 32,260 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-03 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
@@ -415,4 +415,4 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
