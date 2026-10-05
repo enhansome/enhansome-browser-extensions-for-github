@@ -205,11 +205,11 @@
             "id": 185275970,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:38:00Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-05T03:02:33Z",
+            "open_issues": 5,
             "owner": "N1ck",
             "repo": "gifs-for-github",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "chrome-extension",
               "gifs",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13684,
+            "stars": 13685,
             "topics": [
               "animation",
               "blame",
@@ -689,7 +689,7 @@
             "open_issues": 16,
             "owner": "dderevjanik",
             "repo": "github-vscode-icons",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -814,11 +814,11 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T01:44:06Z",
+            "last_commit": "2026-10-05T12:26:08Z",
             "open_issues": 0,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3696,
+            "stars": 3695,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863,
+            "stars": 5861,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -927,7 +927,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-03T12:13:29Z",
-            "open_issues": 10,
+            "open_issues": 7,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
             "stars": 787,
@@ -954,7 +954,7 @@
             "open_issues": 16,
             "owner": "fiatjaf",
             "repo": "module-linker",
-            "stars": 257,
+            "stars": 255,
             "topics": [
               "chrome-extension",
               "dependencies",
@@ -1319,7 +1319,7 @@
             "open_issues": 77,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32260,
+            "stars": 32264,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 22,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2604,
+            "stars": 2603,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:12:37.582Z",
+    "last_updated": "2026-10-05T21:30:46.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
