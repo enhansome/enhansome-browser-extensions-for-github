@@ -14,7 +14,7 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T11:58:32Z",
+            "last_commit": "2026-10-07T19:59:19Z",
             "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2390,
+            "stars": 2391,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13682,
+            "stars": 13681,
             "topics": [
               "animation",
               "blame",
@@ -562,7 +562,7 @@
             "open_issues": 34,
             "owner": "harshjv",
             "repo": "github-repo-size",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -930,7 +930,7 @@
             "open_issues": 7,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 786,
+            "stars": 788,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1985,
+            "stars": 1986,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5388,
+            "stars": 5389,
             "topics": [
               "browser-extension",
               "github",
@@ -1152,7 +1152,7 @@
             "open_issues": 14,
             "owner": "pd4d10",
             "repo": "octohint",
-            "stars": 967,
+            "stars": 966,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1319,7 +1319,7 @@
             "open_issues": 77,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32267,
+            "stars": 32271,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1497,7 +1497,7 @@
             "open_issues": 5,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:35:54.896Z",
+    "last_updated": "2026-10-07T20:01:12.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 29,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3306,
+      "stars": 3307,
       "topics": [
         "awesome",
         "awesome-list",
