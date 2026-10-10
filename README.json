@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13679,
+            "stars": 13678,
             "topics": [
               "animation",
               "blame",
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1986,
+            "stars": 1987,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23277,
+            "stars": 23278,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1239,7 +1239,7 @@
             "open_issues": 20,
             "owner": "lmichelin",
             "repo": "open-github-links-in-ide",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T14:34:47Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32275,
+            "stars": 32282,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 22,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2603,
+            "stars": 2604,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:34:19.509Z",
+    "last_updated": "2026-10-10T18:41:35.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
