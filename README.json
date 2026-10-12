@@ -18,7 +18,7 @@
             "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
-            "stars": 82,
+            "stars": 81,
             "topics": [
               "firefox-extension",
               "github",
@@ -383,7 +383,7 @@
             "open_issues": 27,
             "owner": "homerchen19",
             "repo": "github-file-icons",
-            "stars": 1645,
+            "stars": 1646,
             "topics": []
           },
           "title": "GitHub File Icon",
@@ -518,8 +518,8 @@
             "id": 421889098,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T16:20:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-12T19:41:44Z",
+            "open_issues": 2,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
             "stars": 45,
@@ -689,7 +689,7 @@
             "open_issues": 16,
             "owner": "dderevjanik",
             "repo": "github-vscode-icons",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -814,11 +814,11 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:26:08Z",
+            "last_commit": "2026-10-12T10:59:28Z",
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3697,
+            "stars": 3698,
             "topics": [
               "3d",
               "contributions",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "addon",
               "chrome-extension",
@@ -926,11 +926,11 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T12:13:29Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-12T07:45:30Z",
+            "open_issues": 6,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5388,
+            "stars": 5387,
             "topics": [
               "browser-extension",
               "github",
@@ -1319,7 +1319,7 @@
             "open_issues": 76,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32286,
+            "stars": 32293,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1494,7 +1494,7 @@
             "language": "Svelte",
             "license": "MIT",
             "last_commit": "2024-08-13T17:15:34Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "npmhub",
             "repo": "npmhub",
             "stars": 836,
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:59:13.429Z",
+    "last_updated": "2026-10-12T22:09:44.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
