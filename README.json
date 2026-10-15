@@ -206,7 +206,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-05T03:02:33Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "N1ck",
             "repo": "gifs-for-github",
             "stars": 239,
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5861,
+            "stars": 5862,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "addon",
               "chrome-extension",
@@ -927,7 +927,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-13T12:16:51Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
             "stars": 790,
@@ -954,7 +954,7 @@
             "open_issues": 16,
             "owner": "fiatjaf",
             "repo": "module-linker",
-            "stars": 256,
+            "stars": 255,
             "topics": [
               "chrome-extension",
               "dependencies",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23284,
+            "stars": 23283,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:51:47Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-15T16:53:01Z",
+            "open_issues": 89,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32313,
+            "stars": 32321,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:42:45.373Z",
+    "last_updated": "2026-10-15T18:22:16.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 29,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3308,
+      "stars": 3310,
       "topics": [
         "awesome",
         "awesome-list",
