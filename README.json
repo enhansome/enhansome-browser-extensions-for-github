@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5862,
+            "stars": 5861,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -926,11 +926,11 @@
             "id": 322169288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T12:16:51Z",
+            "last_commit": "2026-10-17T08:25:28Z",
             "open_issues": 5,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5389,
+            "stars": 5390,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23282,
+            "stars": 23283,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T14:24:50Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-17T17:00:00Z",
+            "open_issues": 96,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32323,
+            "stars": 32328,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,8 +1424,8 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T10:13:38Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-17T09:06:29Z",
+            "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
             "stars": 2604,
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:08:52.854Z",
+    "last_updated": "2026-10-17T17:17:05.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
