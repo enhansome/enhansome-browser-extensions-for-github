@@ -383,7 +383,7 @@
             "open_issues": 27,
             "owner": "homerchen19",
             "repo": "github-file-icons",
-            "stars": 1646,
+            "stars": 1645,
             "topics": []
           },
           "title": "GitHub File Icon",
@@ -519,7 +519,7 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T00:51:51Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
             "stars": 45,
@@ -818,7 +818,7 @@
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3700,
+            "stars": 3702,
             "topics": [
               "3d",
               "contributions",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23283,
+            "stars": 23284,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T17:00:00Z",
+            "last_commit": "2026-10-18T11:00:34Z",
             "open_issues": 96,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32328,
+            "stars": 32325,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2604,
+            "stars": 2605,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:17:05.984Z",
+    "last_updated": "2026-10-18T17:25:37.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
