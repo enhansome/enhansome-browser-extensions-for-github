@@ -383,7 +383,7 @@
             "open_issues": 27,
             "owner": "homerchen19",
             "repo": "github-file-icons",
-            "stars": 1645,
+            "stars": 1646,
             "topics": []
           },
           "title": "GitHub File Icon",
@@ -518,8 +518,8 @@
             "id": 421889098,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T00:51:51Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-19T16:51:48Z",
+            "open_issues": 2,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
             "stars": 45,
@@ -814,7 +814,7 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T23:43:38Z",
+            "last_commit": "2026-10-19T17:57:07Z",
             "open_issues": 1,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5861,
+            "stars": 5863,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "addon",
               "chrome-extension",
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 791,
+            "stars": 792,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5390,
+            "stars": 5391,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23284,
+            "stars": 23288,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:00:34Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-19T19:29:41Z",
+            "open_issues": 90,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32325,
+            "stars": 32336,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,7 +1424,7 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T09:06:29Z",
+            "last_commit": "2026-10-19T18:08:49Z",
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
@@ -1472,8 +1472,8 @@
             "id": 219017940,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T12:17:12Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-19T14:38:55Z",
+            "open_issues": 15,
             "owner": "gitpod-io",
             "repo": "browser-extension",
             "stars": 184,
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:25:37.773Z",
+    "last_updated": "2026-10-19T19:59:41.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
