@@ -14,7 +14,7 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-14T18:38:07Z",
+            "last_commit": "2026-10-20T01:55:23Z",
             "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2397,
+            "stars": 2398,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13675,
+            "stars": 13676,
             "topics": [
               "animation",
               "blame",
@@ -518,8 +518,8 @@
             "id": 421889098,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T16:51:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-20T00:57:19Z",
+            "open_issues": 0,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
             "stars": 45,
@@ -562,7 +562,7 @@
             "open_issues": 34,
             "owner": "harshjv",
             "repo": "github-repo-size",
-            "stars": 1302,
+            "stars": 1304,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863,
+            "stars": 5862,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5391,
+            "stars": 5392,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23288,
+            "stars": 23291,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T19:29:41Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-20T13:10:35Z",
+            "open_issues": 85,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32336,
+            "stars": 32348,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,7 +1424,7 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:08:49Z",
+            "last_commit": "2026-10-20T14:48:22Z",
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
@@ -1497,7 +1497,7 @@
             "open_issues": 6,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:59:41.101Z",
+    "last_updated": "2026-10-20T18:31:41.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 29,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3310,
+      "stars": 3311,
       "topics": [
         "awesome",
         "awesome-list",
