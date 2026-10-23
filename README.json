@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863,
+            "stars": 5862,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -895,8 +895,8 @@
             "id": 37826756,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-22T09:29:15Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-23T17:28:26Z",
+            "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
             "stars": 675,
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1989,
+            "stars": 1990,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5392,
+            "stars": 5393,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23292,
+            "stars": 23293,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T07:43:04Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-23T16:35:16Z",
+            "open_issues": 92,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32370,
+            "stars": 32376,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:37:23.422Z",
+    "last_updated": "2026-10-23T18:27:34.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1546,7 +1546,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2024-08-18T20:11:31Z",
-      "open_issues": 29,
+      "open_issues": 30,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
       "stars": 3312,
