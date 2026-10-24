@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13675,
+            "stars": 13674,
             "topics": [
               "animation",
               "blame",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "addon",
               "chrome-extension",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5393,
+            "stars": 5391,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23293,
+            "stars": 23294,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T16:35:16Z",
+            "last_commit": "2026-10-24T10:32:01Z",
             "open_issues": 92,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32376,
+            "stars": 32375,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:27:34.656Z",
+    "last_updated": "2026-10-24T17:29:33.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
