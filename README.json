@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13678,
+            "stars": 13679,
             "topics": [
               "animation",
               "blame",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5862,
+            "stars": 5861,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1990,
+            "stars": 1991,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T21:53:29Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-29T16:44:56Z",
+            "open_issues": 90,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32404,
+            "stars": 32407,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,7 +1424,7 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T14:48:22Z",
+            "last_commit": "2026-10-29T10:44:11Z",
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:38:35.396Z",
+    "last_updated": "2026-10-29T19:42:39.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 30,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3315,
+      "stars": 3316,
       "topics": [
         "awesome",
         "awesome-list",
