@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2400,
+            "stars": 2402,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13679,
+            "stars": 13680,
             "topics": [
               "animation",
               "blame",
@@ -518,7 +518,7 @@
             "id": 421889098,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T00:57:19Z",
+            "last_commit": "2026-11-02T01:50:39Z",
             "open_issues": 0,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
@@ -562,7 +562,7 @@
             "open_issues": 34,
             "owner": "harshjv",
             "repo": "github-repo-size",
-            "stars": 1304,
+            "stars": 1302,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -640,7 +640,7 @@
             "open_issues": 161,
             "owner": "ckeditor",
             "repo": "github-writer",
-            "stars": 397,
+            "stars": 396,
             "topics": []
           },
           "title": "GitHub Writer",
@@ -814,8 +814,8 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:38:32Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T11:23:13Z",
+            "open_issues": 3,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
             "stars": 3704,
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863,
+            "stars": 5864,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 676,
+            "stars": 677,
             "topics": [
               "addon",
               "chrome-extension",
@@ -930,7 +930,7 @@
             "open_issues": 2,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1990,
+            "stars": 1992,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5392,
+            "stars": 5394,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23296,
+            "stars": 23300,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T17:00:39Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-02T16:20:04Z",
+            "open_issues": 83,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32418,
+            "stars": 32427,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:58:58.252Z",
+    "last_updated": "2026-11-02T22:48:21.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 30,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3318,
+      "stars": 3323,
       "topics": [
         "awesome",
         "awesome-list",
