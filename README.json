@@ -14,8 +14,8 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-28T19:34:30Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-03T16:24:11Z",
+            "open_issues": 23,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
             "stars": 81,
@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2402,
+            "stars": 2403,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13680,
+            "stars": 13678,
             "topics": [
               "animation",
               "blame",
@@ -425,7 +425,7 @@
             "open_issues": 44,
             "owner": "Justineo",
             "repo": "github-hovercard",
-            "stars": 1890,
+            "stars": 1891,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -562,7 +562,7 @@
             "open_issues": 34,
             "owner": "harshjv",
             "repo": "github-repo-size",
-            "stars": 1302,
+            "stars": 1301,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23300,
+            "stars": 23301,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1212,7 +1212,7 @@
             "open_issues": 6,
             "owner": "daattali",
             "repo": "oldschool-github-extension",
-            "stars": 237,
+            "stars": 236,
             "topics": [
               "chrome-extension",
               "chrome-extensions",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:20:04Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-03T13:09:18Z",
+            "open_issues": 81,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32427,
+            "stars": 32431,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2607,
+            "stars": 2605,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1497,7 +1497,7 @@
             "open_issues": 6,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:48:21.994Z",
+    "last_updated": "2026-11-03T20:31:40.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
