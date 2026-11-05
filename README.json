@@ -148,7 +148,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-04-17T18:32:05Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "hzoo",
             "repo": "contributors-on-github",
             "stars": 504,
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13677,
+            "stars": 13679,
             "topics": [
               "animation",
               "blame",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5863,
+            "stars": 5861,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -927,10 +927,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T12:32:31Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "material-extensions",
             "repo": "material-icons-browser-extension",
-            "stars": 797,
+            "stars": 798,
             "topics": [
               "browser-extension",
               "material-icons"
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5393,
+            "stars": 5391,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23301,
+            "stars": 23303,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:09:18Z",
+            "last_commit": "2026-11-05T08:17:16Z",
             "open_issues": 81,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32439,
+            "stars": 32446,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2605,
+            "stars": 2604,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:50:39.602Z",
+    "last_updated": "2026-11-05T21:07:20.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 30,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3323,
+      "stars": 3324,
       "topics": [
         "awesome",
         "awesome-list",
