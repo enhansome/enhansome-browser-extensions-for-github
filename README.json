@@ -14,7 +14,7 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-10T09:36:36Z",
+            "last_commit": "2026-11-11T21:25:58Z",
             "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
@@ -310,7 +310,7 @@
             "open_issues": 9,
             "owner": "noam3127",
             "repo": "github-code-folding",
-            "stars": 289,
+            "stars": 290,
             "topics": []
           },
           "title": "GitHub Code Folding",
@@ -522,7 +522,7 @@
             "open_issues": 0,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
-            "stars": 44,
+            "stars": 43,
             "topics": [
               "browser-extension",
               "chrome",
@@ -899,7 +899,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 678,
+            "stars": 677,
             "topics": [
               "addon",
               "chrome-extension",
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1992,
+            "stars": 1991,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T10:53:16Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32470,
+            "stars": 32476,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 16,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2604,
+            "stars": 2603,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1497,7 +1497,7 @@
             "open_issues": 6,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 837,
+            "stars": 836,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:53:16.093Z",
+    "last_updated": "2026-11-11T21:27:22.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 30,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3325,
+      "stars": 3328,
       "topics": [
         "awesome",
         "awesome-list",
