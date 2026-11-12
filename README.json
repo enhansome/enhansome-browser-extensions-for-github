@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2405,
+            "stars": 2404,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13685,
+            "stars": 13686,
             "topics": [
               "animation",
               "blame",
@@ -425,7 +425,7 @@
             "open_issues": 44,
             "owner": "Justineo",
             "repo": "github-hovercard",
-            "stars": 1890,
+            "stars": 1888,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -814,11 +814,11 @@
             "id": 18154829,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T16:56:54Z",
+            "last_commit": "2026-11-12T14:08:55Z",
             "open_issues": 0,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3704,
+            "stars": 3703,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5862,
+            "stars": 5861,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1991,
+            "stars": 1992,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23312,
+            "stars": 23311,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T10:53:16Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32476,
+            "stars": 32477,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1374,7 +1374,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "tab-size-on-github",
-            "stars": 279,
+            "stars": 278,
             "topics": []
           },
           "title": "Tab Size on GitHub",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:27:22.302Z",
+    "last_updated": "2026-11-12T21:29:37.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 30,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3328,
+      "stars": 3330,
       "topics": [
         "awesome",
         "awesome-list",
