@@ -180,7 +180,7 @@
             "open_issues": 66,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2404,
+            "stars": 2405,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -383,7 +383,7 @@
             "open_issues": 27,
             "owner": "homerchen19",
             "repo": "github-file-icons",
-            "stars": 1645,
+            "stars": 1646,
             "topics": []
           },
           "title": "GitHub File Icon",
@@ -518,7 +518,7 @@
             "id": 421889098,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T02:18:26Z",
+            "last_commit": "2026-11-14T01:50:40Z",
             "open_issues": 0,
             "owner": "KatsuteDev",
             "repo": "GitHub-Red-Issues",
@@ -562,7 +562,7 @@
             "open_issues": 34,
             "owner": "harshjv",
             "repo": "github-repo-size",
-            "stars": 1302,
+            "stars": 1303,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -689,7 +689,7 @@
             "open_issues": 16,
             "owner": "dderevjanik",
             "repo": "github-vscode-icons",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -818,7 +818,7 @@
             "open_issues": 0,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3703,
+            "stars": 3704,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5860,
+            "stars": 5861,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1050,7 +1050,7 @@
             "open_issues": 27,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
-            "stars": 1992,
+            "stars": 1993,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5393,
+            "stars": 5394,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23314,
+            "stars": 23315,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1319,7 +1319,7 @@
             "open_issues": 87,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32485,
+            "stars": 32489,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1428,7 +1428,7 @@
             "open_issues": 16,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2603,
+            "stars": 2602,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:55:22.315Z",
+    "last_updated": "2026-11-14T19:13:59.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
