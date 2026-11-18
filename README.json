@@ -14,7 +14,7 @@
             "id": 70697688,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-17T10:43:25Z",
+            "last_commit": "2026-11-18T21:57:55Z",
             "open_issues": 22,
             "owner": "freaktechnik",
             "repo": "advanced-github-notifier",
@@ -177,7 +177,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-06-03T10:02:54Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "softvar",
             "repo": "enhanced-github",
             "stars": 2405,
@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13684,
+            "stars": 13685,
             "topics": [
               "animation",
               "blame",
@@ -383,7 +383,7 @@
             "open_issues": 27,
             "owner": "homerchen19",
             "repo": "github-file-icons",
-            "stars": 1648,
+            "stars": 1649,
             "topics": []
           },
           "title": "GitHub File Icon",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5860,
+            "stars": 5859,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1180,7 +1180,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23322,
+            "stars": 23325,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-17T14:07:33Z",
-            "open_issues": 89,
+            "open_issues": 91,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32504,
+            "stars": 32511,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:28:34.310Z",
+    "last_updated": "2026-11-18T22:05:17.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1546,7 +1546,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2024-08-18T20:11:31Z",
-      "open_issues": 31,
+      "open_issues": 32,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
       "stars": 3332,
