@@ -180,7 +180,7 @@
             "open_issues": 65,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2407,
+            "stars": 2408,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -1047,7 +1047,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-06-25T12:34:28Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "sindresorhus",
             "repo": "notifier-for-github",
             "stars": 1995,
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-19T16:17:47Z",
-            "open_issues": 68,
+            "open_issues": 71,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32517,
+            "stars": 32525,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:15:48.175Z",
+    "last_updated": "2026-11-20T21:51:57.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
