@@ -256,7 +256,7 @@
             "open_issues": 94,
             "owner": "pomber",
             "repo": "git-history",
-            "stars": 13684,
+            "stars": 13683,
             "topics": [
               "animation",
               "blame",
@@ -818,7 +818,7 @@
             "open_issues": 0,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3705,
+            "stars": 3706,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5858,
+            "stars": 5857,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1316,10 +1316,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T07:49:57Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32529,
+            "stars": 32535,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1424,7 +1424,7 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T11:38:52Z",
+            "last_commit": "2026-11-22T14:48:11Z",
             "open_issues": 16,
             "owner": "EnixCoda",
             "repo": "Gitako",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:35:00.535Z",
+    "last_updated": "2026-11-22T20:45:17.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
@@ -1549,7 +1549,7 @@
       "open_issues": 32,
       "owner": "stefanbuck",
       "repo": "awesome-browser-extensions-for-github",
-      "stars": 3331,
+      "stars": 3332,
       "topics": [
         "awesome",
         "awesome-list",
