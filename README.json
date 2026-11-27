@@ -180,7 +180,7 @@
             "open_issues": 65,
             "owner": "softvar",
             "repo": "enhanced-github",
-            "stars": 2406,
+            "stars": 2407,
             "topics": [
               "chrome-browser",
               "chrome-extension",
@@ -818,7 +818,7 @@
             "open_issues": 0,
             "owner": "jasonlong",
             "repo": "isometric-contributions",
-            "stars": 3707,
+            "stars": 3708,
             "topics": [
               "3d",
               "contributions",
@@ -847,7 +847,7 @@
             "open_issues": 29,
             "owner": "NirmalScaria",
             "repo": "le-git-graph",
-            "stars": 5857,
+            "stars": 5856,
             "topics": [
               "chrome-extension",
               "collaborate",
@@ -1104,7 +1104,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5396,
+            "stars": 5397,
             "topics": [
               "browser-extension",
               "github",
@@ -1180,7 +1180,7 @@
             "open_issues": 2,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23330,
+            "stars": 23331,
             "topics": [
               "browser-extension",
               "chrome",
@@ -1315,11 +1315,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T07:49:57Z",
+            "last_commit": "2026-11-27T07:48:10Z",
             "open_issues": 73,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32551,
+            "stars": 32556,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:03:51.426Z",
+    "last_updated": "2026-11-27T22:45:23.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome browser extensions for GitHub.",
